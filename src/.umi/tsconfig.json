@@ -27,7 +27,7 @@
         "src/.umi/*"
       ],
       "umi": [
-        "/Users/eleven/Desktop/构建/华信/front/myapp/node_modules/umi"
+        "/Users/eleven/Desktop/构建/华信/front/umi4/node_modules/umi"
       ],
       "umi/typings": [
         "src/.umi/typings"

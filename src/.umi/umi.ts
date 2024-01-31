@@ -3,7 +3,7 @@
 // DO NOT CHANGE IT MANUALLY!
 import './core/polyfill';
 
-import { renderClient } from '/Users/eleven/Desktop/构建/华信/front/myapp/node_modules/@umijs/renderer-react';
+import { renderClient } from '/Users/eleven/Desktop/构建/华信/front/umi4/node_modules/@umijs/renderer-react';
 import { getRoutes } from './core/route';
 import { createPluginManager } from './core/plugin';
 import { createHistory } from './core/history';
